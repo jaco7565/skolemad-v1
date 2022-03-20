@@ -63,7 +63,7 @@
                 </div>
               </div>
               <div>
-                <p>Glemt kodeord?</p>
+                <p>Glemt kodeord??</p>
                 <p>Har du ikke en konto</p>
               </div>
             </form>
