@@ -10,7 +10,7 @@
   <a href="/">Home</a>
   <a href="/#/bestil">Bestil</a>
   <a href="/#/konto">Konto</a>
-  <a href="/#/logInd">Log Ind</a>
+  <a href="/#/logInd">Log Ind_</a>
 </nav>
 
 <Router
